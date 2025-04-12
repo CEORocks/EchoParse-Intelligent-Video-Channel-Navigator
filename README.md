@@ -159,5 +159,3 @@ Use freely, modify as needed. Contributions are welcome.
 > Knowledge grounded in your data, not the noise.
 
 **Craft smarter context with ContextCraft.**
-
-```
