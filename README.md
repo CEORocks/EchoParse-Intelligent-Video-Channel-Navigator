@@ -1,15 +1,4 @@
-**🧭 ContextCraft: Modular AI Answers from Custom Sources**
 
----
-
-## 🔹 2. **About Section**
-**ContextCraft** is a modular RAG-style knowledge assistant that empowers you to load, link, and query your own data across structured and unstructured formats. Built with speed and simplicity in mind, it transforms documents, databases, and graphs into conversational intelligence.
-
----
-
-## 🔹 3. **README.md**
-
-```markdown
 # 🧭 ContextCraft: Modular AI Answers from Custom Sources
 
 ContextCraft is an interactive AI-powered assistant that lets you query your own data using retrieval-augmented generation patterns. Whether you're dealing with plain text, PDFs, databases, or knowledge graphs, ContextCraft makes it easy to extract answers using relevant, grounded context.
